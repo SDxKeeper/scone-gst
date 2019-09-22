@@ -1,6 +1,3 @@
-ARG http_proxy=http://proxy-chain.intel.com:911
-ARG https_proxy=http://proxy-chain.intel.com:912
-
 FROM iexechub/crosscompilers-scone:alpine3.10 as build
 
 
